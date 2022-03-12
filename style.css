@@ -1,0 +1,33 @@
+body {
+    background-image: url(./background.jpg);
+    background-color: blueviolet;
+}
+
+.container {
+    border: 10px solid red;
+    text-align: center;
+    width: 30%;
+    /* height: 300px; */
+    position: relative;
+    top: 100px;
+    left: 600px;
+    background-image: url(./multicolor_candy.png);
+}
+
+.container img {
+    /* width: 10%;
+    height: 10%; */
+    height: 50px;
+}
+
+.button_part {
+    text-align: center;
+}
+
+button {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    height: 45px;
+    width: 60px;
+}
